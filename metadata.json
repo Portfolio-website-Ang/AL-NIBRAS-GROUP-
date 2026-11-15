@@ -1,0 +1,8 @@
+{
+  "name": "Remix Al Nibras - Islamic Fintech \u0026 Edtech Ecosystem",
+  "description": "Comprehensive Sharia-compliant Islamic fintech \u0026 edtech platform featuring parental Ok Kro approvals, Zakat Hub \u0026 Calculator, Academy, Kids Noor Zone, and Ask Mufti AI Advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
